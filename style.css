@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #00ffffff;
+    background: color|transparent|initial|inherit;
 }
 
 

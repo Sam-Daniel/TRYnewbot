@@ -44,7 +44,7 @@
 
              <div class="chat-form">
                 <div id="inputDiv" autofocus/>
-                    <textarea class="input" type="text" autofocus></textarea>
+                    <textarea class="input" type="text" name="" value="" placeholder="Ask Us" autofocus></textarea>
                 </div>
                 <div id="chat-form-buttons">
                     

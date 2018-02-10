@@ -18,8 +18,8 @@
            
         
 	    <div class="headerBar">
-                <div class="user-photo"><img src="https://publishmybrand.com/wp-content/uploads/2017/09/mr.tack_.jpg"></div>
-                <p class="title"> Mr.Tack </p>
+                <div class="user-photo"><img src="https://image.ibb.co/govGY7/oie_transparent_12.png"></div>
+                <p class="title"> NVT Phybridge </p>
 		    
 
         </div>
@@ -31,12 +31,12 @@
             <div class="chatlogs">
             
                 <div class="chat friend">
-                    <div class="user-photo"><img src="https://publishmybrand.com/wp-content/uploads/2017/09/mr.tack_.jpg"></div>
+                    <div class="user-photo"><img src="https://image.ibb.co/govGY7/oie_transparent_12.png"></div>
                     <p class="chat-message">Hi!</p>
                 </div>
 
                 <div class="chat friend" id="loadingGif" style="display: none;">
-                     <div class="user-photo"><img src="https://publishmybrand.com/wp-content/uploads/2017/09/mr.tack_.jpg"></div>
+                     <div class="user-photo"><img src="https://image.ibb.co/govGY7/oie_transparent_12.png"></div>
                     <div class="gif"><img src="Images/loading.gif"></div>
                 </div>
 
